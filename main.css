@@ -197,34 +197,6 @@ a:hover i {
 
 }
 
-/* .users .card a button {
-    padding: 10px 40px;
-
-    cursor: pointer;
-    border-radius: 10px;
-    position: absolute;
-    background: transparent;
-    border: 1px solid black;
-} */
-
-/* .add-space{
-    margin-top: 10% !important;
-}
-.add-space2{
-    margin-top: 28% !important;
-}
-.add-space3{
-    margin-top: -7% !important;
-}
-.add-space4{
-    margin-top: -26% !important;
-} */
-/* .users .card a :hover {
-    background: black;
-    color: white;
-    transition: 0.5s;
-} */
-
 /*Attendance List serction  */
 .main-page {
     margin-top: 20px;
@@ -236,7 +208,7 @@ a:hover i {
     padding: 10px;
     margin-top: 10px;
     background: #fff;
-    border-radius: 10px;
+    border-radius: 15px;
     box-shadow: 0 20px 35px rgba(0, 0, 0, 0.1);
 }
 
@@ -244,6 +216,9 @@ a:hover i {
     text-align: center;
     margin-bottom: 2%;
     font-size: x-large;
+}
+.main-page-div p{
+      text-align: justify;
 }
 .image-div{
     position: relative;
